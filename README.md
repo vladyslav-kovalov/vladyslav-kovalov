@@ -2,6 +2,7 @@
 
 I'm **Vlad**, a Front-end newbie 👨🏻‍💻 
 
+Personal web page 👉 https://vladyslav-kovalov.github.io/
 
 
 <!--
