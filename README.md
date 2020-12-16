@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm **Vlad**, a Front-end newbie 👨🏻‍💻
+I'm **Vlad**, a Front-end newbie 👨🏻‍💻 
 
 
 
