@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm **Vlad**, a Front-end newbie 👨🏻‍💻
+
+
 
 <!--
 **vladyslav-kovalov/vladyslav-kovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
