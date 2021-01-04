@@ -2,10 +2,9 @@
 
 I'm **Vlad**, a Front-end newbie 👨🏻‍💻 
 
-Personal web page 👉 https://vladyslav-kovalov.github.io/
+<!-- Personal web page 👉 https://vladyslav-kovalov.github.io/
 
 
-<!--
 **vladyslav-kovalov/vladyslav-kovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
